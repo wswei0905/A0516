@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         button = findViewById(R.id.button);
-        EditText editText = findViewById(R.id.editText);
+        //EditText editText = findViewById(R.id.editText);
         sp_fruit = findViewById(R.id.sp_fruit);
 
     }
