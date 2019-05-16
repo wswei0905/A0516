@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fruit_array">
+        <item>蘋果</item>
+        <item>香蕉</item>
+        <item>奇異果</item>
+        <item>AAA</item>
+        <item>BBB</item>
+        <item>西瓜</item>
+    </string-array>
+
+
+</resources>
